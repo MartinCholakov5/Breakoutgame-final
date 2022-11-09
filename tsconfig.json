@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "ES2020",
+        "strict": true,
+        "esModuleInterop": true,
+        "strictNullChecks": false, 
+        "allowSyntheticDefaultImports": true,
+        "strictPropertyInitialization": false,
+        "moduleResolution": "node",
+        "skipLibCheck": false,
+        "lib": ["DOM", "ES2020"]
+    },
+    "include": ["./src/index.ts"]
+}

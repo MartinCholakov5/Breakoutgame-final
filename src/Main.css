@@ -1,0 +1,9 @@
+html,
+body { height: 100%;
+}
+
+.mainContainer {
+display: flex;
+align-items: center;
+justify-content: center;
+}
